@@ -1,0 +1,32 @@
+html {
+    background-color: black;
+}
+
+h1 {
+    font-size: 50px;
+    color: brown;
+    text-align: center;
+}
+
+
+/* CENTERING OBJECTS */
+
+.puppies {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgba(225, 0, 255, 0.1);
+    padding: 50px;
+    border: 10px solid white;
+    margin: 50px;
+}
+
+/* .puppies {
+    width: 50%;
+    margin: auto;
+}
+ */
+
+ img {
+    padding: 30px;
+    border: 10px solid white;
+}
